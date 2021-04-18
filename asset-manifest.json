@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Utube-Redux/static/css/main.2773c029.chunk.css",
+    "main.js": "/Utube-Redux/static/js/main.2e42114f.chunk.js",
+    "main.js.map": "/Utube-Redux/static/js/main.2e42114f.chunk.js.map",
+    "runtime-main.js": "/Utube-Redux/static/js/runtime-main.c1ca798d.js",
+    "runtime-main.js.map": "/Utube-Redux/static/js/runtime-main.c1ca798d.js.map",
+    "static/js/2.83cd2d56.chunk.js": "/Utube-Redux/static/js/2.83cd2d56.chunk.js",
+    "static/js/2.83cd2d56.chunk.js.map": "/Utube-Redux/static/js/2.83cd2d56.chunk.js.map",
+    "static/js/3.434d603f.chunk.js": "/Utube-Redux/static/js/3.434d603f.chunk.js",
+    "static/js/3.434d603f.chunk.js.map": "/Utube-Redux/static/js/3.434d603f.chunk.js.map",
+    "index.html": "/Utube-Redux/index.html",
+    "static/css/main.2773c029.chunk.css.map": "/Utube-Redux/static/css/main.2773c029.chunk.css.map",
+    "static/js/2.83cd2d56.chunk.js.LICENSE.txt": "/Utube-Redux/static/js/2.83cd2d56.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1ca798d.js",
+    "static/js/2.83cd2d56.chunk.js",
+    "static/css/main.2773c029.chunk.css",
+    "static/js/main.2e42114f.chunk.js"
+  ]
+}
